@@ -1,3 +1,6 @@
+> [!warning]
+> **This repo is obsolete in 4.17 and is no longer maintained. Older branches are still in use, until EOL of the corresponding OCP version**
+
 # alibaba-cloud-csi-driver-operator
 An operator to deploy the Alibaba Cloud CSI driver in ACK.
 
